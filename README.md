@@ -1,22 +1,13 @@
 # Tableau Homework - Citi Bike Analytics
 
-### Before You Begin
-
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
-
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
-
-* The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
+## Webpage
+[Tableau Public Link](https://public.tableau.com/app/profile/alberto.gonzalez1993/viz/CitibikeAnalysisJerseyCity2020/PopularLocationstoStart?publish=yes)
 
 ## Background
 
 ![image](https://user-images.githubusercontent.com/78628287/135106037-c93e3a01-90c6-446d-9d97-084872db0166.png)
 
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+As a new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
@@ -92,18 +83,5 @@ Your final submission should include:
   * 1 City Official Map
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
+* [Analysis](https://docs.google.com/document/d/1KuTdMC2-dwNBrWuQbukpYCixkQdi7CAkB4ZBvpIDSRY/edits)
 
-## Sharing Your Work
-In order to share your work, we are asking that you will save your workbook as a .twbx file so that your TA's can grade them.
-
-To save your workbook as a .twbx file, you will just need to select "Save As..." from the "File" dropdown. Then, select the .twbx option.
-
-## Assessment
-
-Your final product will be assessed on the following metrics:
-
-* Analytic Rigor
-
-* Readability
-
-* Visual Attraction
