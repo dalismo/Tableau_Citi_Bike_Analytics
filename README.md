@@ -83,5 +83,5 @@ Your final submission should include:
   * 1 City Official Map
   * 1 Story 
 * A text or markdown file with your analysis on the phenomenons you uncovered from the data.
-* [Analysis](https://docs.google.com/document/d/1KuTdMC2-dwNBrWuQbukpYCixkQdi7CAkB4ZBvpIDSRY/edits)
+  * [Analysis](https://docs.google.com/document/d/1KuTdMC2-dwNBrWuQbukpYCixkQdi7CAkB4ZBvpIDSRY/edits)
 
